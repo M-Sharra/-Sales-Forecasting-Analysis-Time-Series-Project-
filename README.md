@@ -1,24 +1,26 @@
+
 # 📈 Sales Forecasting Analysis (Time Series Project)
 
 > End-to-end time series forecasting project using Excel and Holt’s Exponential Smoothing model to analyze sales trends and predict future performance based on quarterly data.
 
-https://img.shields.io/badge/Tool-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white
-https://img.shields.io/badge/Technique-Exponential%20Smoothing-blue?style=flat-square
-https://img.shields.io/badge/Focus-Time%20Series%20Analysis-orange?style=flat-square
-https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square
+![Tool](https://img.shields.io/badge/Tool-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Technique](https://img.shields.io/badge/Technique-Exponential%20Smoothing-blue?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Time%20Series%20Analysis-orange?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square)
 
 ---
 
 ## 📌 Table of Contents
 
-- #-data-overview  
-- #️-time-series-analysis  
-- #-forecasting-model  
-- #-model-implementation  
-- #-results--forecast  
-- #-key-insights  
-- #-business-impact  
-- #-final-thoughts  
+- [📁 Data Overview](#-data-overview)
+- [📊 Time Series Analysis](#-time-series-analysis)
+- [⚙️ Forecasting Model](#️-forecasting-model)
+- [🧪 Model Implementation](#-model-implementation)
+- [📊 Results & Forecast](#-results--forecast)
+- [💡 Key Insights](#-key-insights)
+- [🚀 Business Impact](#-business-impact)
+- [🎯 Final Thoughts](#-final-thoughts)
+ 
 
 ---
 
